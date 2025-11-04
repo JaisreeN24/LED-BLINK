@@ -41,7 +41,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 ### 🧭 **Procedure**
 
 1. Open **STM32CubeIDE**.
-<img width="620" height="400" alt="Screenshot 2025-11-03 140814" src="https://github.com/user-attachments/assets/c9a10dd6-b0c8-4fb8-98b4-e7771aa08ee2" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-03 140814" src="https://github.com/user-attachments/assets/c9a10dd6-b0c8-4fb8-98b4-e7771aa08ee2" />
 
 2. Click **File → New STM32 Project**.
 <img width="1920" height="1140" alt="Screenshot 2025-11-03 141246" src="https://github.com/user-attachments/assets/c12722ca-2fbb-4c96-bdb4-2a86ad480f4b" />
@@ -49,12 +49,12 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 3. Select the **target microcontroller** or board and click **Next**.
-<img width="1372" height="1132" alt="Screenshot 2025-11-04 193237" src="https://github.com/user-attachments/assets/e4b67867-2f84-4c81-8536-2edcc3f1b0e7" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-04 193237" src="https://github.com/user-attachments/assets/e4b67867-2f84-4c81-8536-2edcc3f1b0e7" />
 
 
 
 4. Name the project.
-<img width="594" height="661" alt="Screenshot 2025-11-04 193305" src="https://github.com/user-attachments/assets/22f5196e-3e8d-4c47-8e25-4673a170e48e" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-04 193305" src="https://github.com/user-attachments/assets/22f5196e-3e8d-4c47-8e25-4673a170e48e" />
 
 5. The corresponding `.ioc` file will be generated automatically.
 <img width="1920" height="1140" alt="Screenshot 2025-11-04 200819" src="https://github.com/user-attachments/assets/97c416d9-64af-4d89-a1b2-f871368bce56" />
@@ -74,7 +74,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 <img width="1920" height="1140" alt="Screenshot 2025-11-04 201519" src="https://github.com/user-attachments/assets/d3573460-4f7c-441d-a784-483f26971b02" />
 
 10. Link the **HEX file** using the post-build process.
-<img width="727" height="256" alt="Screenshot 2025-11-04 201631" src="https://github.com/user-attachments/assets/ddc73179-9e3a-45e2-afb0-9559d8cc66ea" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-04 201631" src="https://github.com/user-attachments/assets/ddc73179-9e3a-45e2-afb0-9559d8cc66ea" />
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
 <img width="1920" height="1140" alt="Screenshot 2025-11-04 202650" src="https://github.com/user-attachments/assets/a9b57f72-cfd0-4b51-bd2e-244d29f42b52" />
