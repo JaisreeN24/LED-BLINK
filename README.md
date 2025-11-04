@@ -77,7 +77,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 <img width="727" height="256" alt="Screenshot 2025-11-04 201631" src="https://github.com/user-attachments/assets/ddc73179-9e3a-45e2-afb0-9559d8cc66ea" />
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-![Uploading Screenshot 2025-11-04 202650.png…]()
+<img width="1920" height="1140" alt="Screenshot 2025-11-04 202650" src="https://github.com/user-attachments/assets/a9b57f72-cfd0-4b51-bd2e-244d29f42b52" />
 
 13. Click **Run** to execute the program.
     
