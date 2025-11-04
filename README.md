@@ -41,19 +41,20 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 ### 🧭 **Procedure**
 
 1. Open **STM32CubeIDE**.
-   <img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/109135f6-e6f9-46f8-86e1-ecafa6170b01" />
+<img width="641" height="416" alt="Screenshot 2025-11-03 140814" src="https://github.com/user-attachments/assets/c9a10dd6-b0c8-4fb8-98b4-e7771aa08ee2" />
 
 2. Click **File → New STM32 Project**.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/edf33429-8eea-4857-a991-c2d7706fc787" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-03 141246" src="https://github.com/user-attachments/assets/c12722ca-2fbb-4c96-bdb4-2a86ad480f4b" />
+<img width="1920" height="1140" alt="Screenshot 2025-11-03 141343" src="https://github.com/user-attachments/assets/b8483b88-2070-407a-9a91-639fd1008fed" />
+
 
 3. Select the **target microcontroller** or board and click **Next**.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
+<img width="1372" height="1132" alt="Screenshot 2025-11-04 193237" src="https://github.com/user-attachments/assets/e4b67867-2f84-4c81-8536-2edcc3f1b0e7" />
 
 
 
 4. Name the project.
-   <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
+<img width="594" height="661" alt="Screenshot 2025-11-04 193305" src="https://github.com/user-attachments/assets/22f5196e-3e8d-4c47-8e25-4673a170e48e" />
 
 5. The corresponding `.ioc` file will be generated automatically.
   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
