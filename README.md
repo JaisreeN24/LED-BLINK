@@ -41,11 +41,11 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 ### 🧭 **Procedure**
 
 1. Open **STM32CubeIDE**.
-<img width="1000" height="500" alt="Screenshot 2025-11-03 140814" src="https://github.com/user-attachments/assets/c9a10dd6-b0c8-4fb8-98b4-e7771aa08ee2" />
+<img width="500" height="500" alt="Screenshot 2025-11-03 140814" src="https://github.com/user-attachments/assets/c9a10dd6-b0c8-4fb8-98b4-e7771aa08ee2" />
 
 2. Click **File → New STM32 Project**.
-<img width="1000" height="500" alt="Screenshot 2025-11-03 141246" src="https://github.com/user-attachments/assets/c12722ca-2fbb-4c96-bdb4-2a86ad480f4b" />
-<img width="1000" height="500" alt="Screenshot 2025-11-03 141343" src="https://github.com/user-attachments/assets/b8483b88-2070-407a-9a91-639fd1008fed" />
+<img width="500" height="500" alt="Screenshot 2025-11-03 141246" src="https://github.com/user-attachments/assets/c12722ca-2fbb-4c96-bdb4-2a86ad480f4b" />
+<img width="500" height="500" alt="Screenshot 2025-11-03 141343" src="https://github.com/user-attachments/assets/b8483b88-2070-407a-9a91-639fd1008fed" />
 
 
 3. Select the **target microcontroller** or board and click **Next**.
